@@ -1,0 +1,14 @@
+main{
+	margin: auto;
+	text-align: center;
+}
+
+div{
+	width: auto;
+	display: inline-block;
+	margin: -5px 3px;
+}
+
+a{
+	text-decoration: none;
+}
